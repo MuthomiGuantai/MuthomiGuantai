@@ -4,10 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muthomiguantai&label=Profile%20views&color=0e75b6&style=flat" alt="muthomiguantai" /> </p>
 
 <!--START_SECTION:waka-->
-<img
-  src="https://github.com/MuthomiGuantai/MuthomiGuantai/blob/main/images/stat.svg"
-  alt="Avinal WakaTime Activity"
-/>
 <!--END_SECTION:waka-->
 
 - 📫 How to reach me **muthomiguantai@gmail.com**
